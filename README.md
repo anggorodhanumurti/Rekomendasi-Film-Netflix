@@ -22,7 +22,7 @@ Program ini dibuat sebagai final project dari training saya di [hacktiv8 - intro
 
 - Karena system rekomendasi yang saya buat berbasis konten maka saya menggunakan fungsi cosine similarity. Kode nya bisa dilihat [`disini`](https://github.com/anggorodhanumurti/Rekomendasi-Film-Netflix/blob/master/cosine_similarity.py).
 
-- Main application nya adalah file ['rekomendasi_film.py'](https://github.com/anggorodhanumurti/Rekomendasi-Film-Netflix/blob/master/rekomendasi_film.py) jadi untuk menjalankan program cukup ketik ini pada console/cmd : **python rekomendasi_film.py**
+- Main application nya adalah file ['rekomendasi_film.py'](https://github.com/anggorodhanumurti/Rekomendasi-Film-Netflix/blob/master/rekomendasi_film.py) jadi untuk menjalankan program cukup ketik **python rekomendasi_film.py** pada Terminal/CMD
 
 ### Refferensi
 
