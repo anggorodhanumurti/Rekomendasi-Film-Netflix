@@ -24,7 +24,7 @@ Program ini dibuat sebagai final project dari training saya di [hacktiv8 - intro
 
 ### Refferensi
 
-- [Building Movie Recommender System in Python by CodeHeroku](https://www.youtube.com/watch?v=XoTwndOgXBM "Building Movie Recommender System in Python by CodeHeroku")**
+- [Building Movie Recommender System in Python by CodeHeroku](https://www.youtube.com/watch?v=XoTwndOgXBM "Building Movie Recommender System in Python by CodeHeroku")
 
 - [Kaggle Netflix Datasets](https://www.kaggle.com/netflix-inc/netflix-prize-data "Kaggle Netflix Datasets")
 
