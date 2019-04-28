@@ -14,6 +14,8 @@ Program ini dibuat sebagai final project dari training saya di [hacktiv8 - intro
 
 ## Tutorial
 
+- Saya menggunakan **Python 3** jadi pastikan kamu menggunakan versi python yang sesuai
+
 - Install modul yang dibutuhkan untuk Machine Learning pada program ini saya menggunakan **[pandas](https://pandas.pydata.org/)** dan **[scikit-learn](https://scikit-learn.org/)**
 
 - Siapkan datasets untuk diolah bisa didapatkan di [kaggle.com](https://www.kaggle.com/netflix-inc/netflix-prize-data) datasets yang saya gunakan adalah [`movie_dataset.csv`](https://github.com/anggorodhanumurti/Rekomendasi-Film-Netflix/raw/master/movie_dataset.csv)
