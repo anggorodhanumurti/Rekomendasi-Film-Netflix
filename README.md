@@ -16,7 +16,7 @@ Program ini dibuat sebagai final project dari training saya di [hacktiv8 - intro
 
 - Install modul yang dibutuhkan untuk Machine Learning pada program ini saya menggunakan **[pandas](https://pandas.pydata.org/)** dan **[scikit-learn](https://scikit-learn.org/)**
 
-- Siapkan datasets untuk diolah bisa didapatkan di **[kaggle.com]([https://www.kaggle.com/netflix-inc/netflix-prize-data](https://www.kaggle.com/netflix-inc/netflix-prize-data))** datasets yang saya gunakan adalah [`movie_dataset.csv`](https://github.com/anggorodhanumurti/Rekomendasi-Film-Netflix/raw/master/movie_dataset.csv)
+- Siapkan datasets untuk diolah bisa didapatkan di [kaggle.com]([https://www.kaggle.com/netflix-inc/netflix-prize-data](https://www.kaggle.com/netflix-inc/netflix-prize-data))** datasets yang saya gunakan adalah [`movie_dataset.csv`](https://github.com/anggorodhanumurti/Rekomendasi-Film-Netflix/raw/master/movie_dataset.csv)
 
 - Karena system rekomendasi yang saya buat berbasis konten maka saya menggunakan fungsi cosine similarity. Kode nya bisa dilihat [`disini`](https://github.com/anggorodhanumurti/Rekomendasi-Film-Netflix/blob/master/cosine_similarity.py).
 
