@@ -9,9 +9,23 @@ Jawabanya adalah Machine Learning yaitu kemampuan program dalam mengambil keputu
 sedemikian rupa sehingga menghasilkan prediksi yang akurat.
 
 Program ini dibuat sebagai final project dari training saya di [hacktiv8 - intro to data science](https://hacktiv8.com/python/jakarta/)
-<p align="center">
- <img src="https://hacktiv8.com/img/logo-hacktiv8_bordered.png">
+
+## Tutorial
+
+- Install modul yang dibutuhkan untuk Machine Learning pada program ini saya menggunakan **[pandas](https://pandas.pydata.org/)** dan **[scikit-learn](https://scikit-learn.org/)**
+
+- Siapkan datasets untuk diolah bisa didapatkan di **[kaggle.com]([https://www.kaggle.com/netflix-inc/netflix-prize-data](https://www.kaggle.com/netflix-inc/netflix-prize-data))** datasets yang saya gunakan adalah [`movie_dataset.csv`](https://github.com/anggorodhanumurti/Rekomendasi-Film-Netflix/raw/master/movie_dataset.csv)
+
+- Karena system rekomendasi yang saya buat berbasis konten maka saya menggunakan fungsi cosine similarity. Kode nya bisa dilihat [`disini`](https://github.com/anggorodhanumurti/Rekomendasi-Film-Netflix/blob/master/cosine_similarity.py).
+
+- Main application nya adalah file ['rekomendasi_film.py'](https://github.com/anggorodhanumurti/Rekomendasi-Film-Netflix/blob/master/rekomendasi_film.py) jadi untuk menjalankan program cukup ketik ini pada console/cmd : **python rekomendasi_film.py**
+
+### Refferensi
+
+- [Building Movie Recommender System in Python by CodeHeroku](https://www.youtube.com/watch?v=XoTwndOgXBM "Building Movie Recommender System in Python by CodeHeroku")**
+
+- [Kaggle Netflix Datasets](https://www.kaggle.com/netflix-inc/netflix-prize-data "Kaggle Netflix Datasets")
+
+<p align="center"><a href="https://hacktiv8.com">
+ <img src="https://hacktiv8.com/img/logo-hacktiv8_bordered.png"></a>
 </p>
-
-### Tutorial
-
