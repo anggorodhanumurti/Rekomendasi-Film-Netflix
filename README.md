@@ -4,7 +4,9 @@
  <img src="http://www.codeheroku.com/static/blog/images/pid14_results.png">
 </p>
 
-Penasaran bagaimana Google atau situs streaming seperti Netflix menampilkan Rekomendasi film sesuai dengan selera kita?
+Penasaran bagaimana Google atau situs streaming seperti Netflix menampilkan Rekomendasi film 
+sesuai dengan selera kita?
+
 Jawabanya adalah Machine Learning yaitu kemampuan program dalam mengambil keputusan sesuai dengan data aktual yg telah diproses 
 sedemikian rupa sehingga menghasilkan prediksi yang akurat.
 
