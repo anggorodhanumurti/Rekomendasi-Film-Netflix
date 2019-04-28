@@ -1,0 +1,7 @@
+1) signup github
+2) commit
+3) fix code >> rekomendasi_film.py >> ignore case sensitive = done
+fix ignore case sensitive in movie_dataset.csv
+
+4) banner, interface, comment
+
