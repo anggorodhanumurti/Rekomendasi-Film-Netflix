@@ -1,4 +1,4 @@
-# pandas dan numpy wajib buat olah data
+# pandas wajib buat olah data
 import pandas as pd
 
 # CountVectorizer untuk merepresentasikan text sebagai vector
