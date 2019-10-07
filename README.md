@@ -30,6 +30,6 @@ Program ini dibuat sebagai final project dari training saya di [hacktiv8 - intro
 
 - [Kaggle Netflix Datasets](https://www.kaggle.com/netflix-inc/netflix-prize-data "Kaggle Netflix Datasets")
 
-<p align="center"><a href="https://hacktiv8.com">
- <img src="https://hacktiv8.com/img/logo-hacktiv8_bordered.png"></a>
+<p align="center"><a href="https://hacktiv8.com/verify/pytn/anggoro-dhanumurti/">
+ <img src="https://raw.githubusercontent.com/anggorodhanumurti/Rekomendasi-Film-Netflix/master/IMG_20190615_142521.jpg"></a>
 </p>
